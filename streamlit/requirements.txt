@@ -1,4 +1,3 @@
 streamlit
 matplotlib
-pickle5
 scikit-learn
