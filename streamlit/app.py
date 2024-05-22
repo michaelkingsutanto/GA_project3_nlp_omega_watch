@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 # Open the pickle file in read-binary mode
-with open('model.pkl', 'rb') as f:
+with open('streamlit/model.pkl', 'rb') as f:
     # Load the model from the file
     model = pickle.load(f)
 
